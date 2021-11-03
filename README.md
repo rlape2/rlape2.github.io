@@ -9,3 +9,5 @@ Third year student
 Academy Sports cashier
 Williams Creek Golf Course maintenance 
 
+## Geography Experience
+Geography 312: First steps in GIS programming
