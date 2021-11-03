@@ -9,5 +9,8 @@ Third year student
 Academy Sports cashier
 Williams Creek Golf Course maintenance 
 
-## Geography Experience
+## Geography courses completed
 Geography 312: First steps in GIS programming
+Geography 413: Remote sensing of the environment
+Geography 311: Our Digital Earth
+Geography 252: Natural Hazards 
