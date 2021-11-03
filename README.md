@@ -23,5 +23,5 @@ Geography 132: Landscapes/Environmental change
 Fly fishing,
 Kayaking,
 Golf,
-Soccer,
+Soccer
 
