@@ -4,4 +4,8 @@ My personal website
 ## Education
 Geography major at The University of Tennessee
 Third year student
-Dadaadad
+
+## Employment
+Academy Sports cashier
+Williams Creek Golf Course maintenance 
+
