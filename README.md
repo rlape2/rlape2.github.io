@@ -20,8 +20,8 @@ Geography 121: Human Geography
 Geography 132: Landscapes/Environmental change
 
 ## Hobbies
-Fly fishing
-Kayaking
-Golf
-Soccer
+Fly fishing,
+Kayaking,
+Golf,
+Soccer,
 
