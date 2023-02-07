@@ -1,4 +1,4 @@
-# rlape2.github.io
+# Robby Lape
 My personal website 
 
 ## Education
