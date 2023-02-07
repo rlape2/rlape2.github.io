@@ -26,6 +26,7 @@ Geography 449: Transportation Geography
 
 ## Hobbies
 Fly fishing,
+Bass fishing,
 Kayaking,
 Golf,
 Soccer
