@@ -37,4 +37,4 @@ Basketball
 
 ## Go Vols!
 
-<iframe src="https://giphy.com/embed/LYOkCQc638NCaROTNy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vol-football-LYOkCQc638NCaROTNy">via GIPHY</a></p>go
+<iframe src="https://giphy.com/embed/LYOkCQc638NCaROTNy" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/vol-football-LYOkCQc638NCaROTNy">via GIPHY</a></p>
