@@ -15,5 +15,8 @@ Basketball
 ## Social Media
 [LinkedIn](https://www.linkedin.com/in/robby-lape/)
 
+## Streamlit app
+[Streamlit](https://github.com/rlape2/robbystreamlitapp)
+
 ## Go Vols!
 
