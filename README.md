@@ -2,14 +2,14 @@
 My personal website 
 
 ## Education
-Geography major with a concentration in Geospatial Science and Technology at The University of Tennessee
+Studying GIS Technology at The University of Tennessee
 
 
 ## Employment
 Academy Sports cashier, 
 Williams Creek Golf Course maintenance,
 Williamson County Parks and Recreation,
-Harpeth Conservancy
+Harpeth Conservancy Intern: Summer 2022
 
 ## Geography courses completed
 Geography 312: First steps in GIS programming, 
