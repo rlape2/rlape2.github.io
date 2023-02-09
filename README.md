@@ -2,7 +2,7 @@
 [My personal website](https://rlape2.github.io/)
 
 ## Education
-Studying GIS Technology at The University of Tennessee
+Studying GIS Technology at [The University of Tennessee](https://www.utk.edu/)
 
 ## Hobbies
 Fly fishing,
