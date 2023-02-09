@@ -1,5 +1,5 @@
 # Robby Lape
-My personal website 
+[My personal website](https://rlape2.github.io/)
 
 ## Education
 Studying GIS Technology at The University of Tennessee
